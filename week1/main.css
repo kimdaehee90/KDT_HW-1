@@ -3,16 +3,14 @@ body{
     padding: 0;
 }
 .header{
-    background-color: red;
+    background-color: #15062c
 }
 .container{
-
-    width: 1260px;
+    width: 99%;
     margin: auto;
     padding: 20px 0;
 }
 .container-left{
-
 }
 .menu-item{
     float: left;
@@ -26,7 +24,6 @@ body{
 .logo img{
     display: block;
 }
-
 .clearfix::after{
     content: "";
     display: block;
